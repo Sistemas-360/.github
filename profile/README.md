@@ -1,28 +1,29 @@
 # Sistemas 360
 
-Desarrollamos soluciones tecnológicas para integración fiscal, automatización de procesos y software a medida en Argentina.
+Soluciones tecnológicas para integración fiscal, automatización operativa y desarrollo de plataformas web en Argentina.
 
-Trabajamos con APIs, sistemas web, facturación electrónica ARCA, paneles administrativos e integraciones para empresas, desarrolladores, plataformas SaaS e integradores.
+Diseñamos APIs, sistemas SaaS, paneles administrativos e integraciones backend para empresas, desarrolladores, plataformas digitales e integradores que necesitan operar procesos críticos con trazabilidad, seguridad y escalabilidad.
 
 ## API Sistemas 360
 
 API REST para integrar facturación electrónica ARCA desde sistemas externos.
 
-Orientada a desarrolladores, ERPs, CRMs, POS, ecommerce, plataformas SaaS e integradores que necesitan emitir comprobantes fiscales desde sus propios sistemas.
+Permite emitir, consultar, reintentar y descargar comprobantes electrónicos desde ERPs, CRMs, POS, ecommerce, plataformas SaaS o desarrollos propios.
 
-### Características
+### Capacidades principales
 
-* API REST con JSON.
+* API REST con respuestas JSON normalizadas.
 * Autenticación mediante Bearer Token.
 * Emisión de Factura A, B y C.
-* Notas de crédito y notas de débito.
-* CAE y vencimiento.
-* QR fiscal.
-* PDF A4 y Ticket.
-* Ambiente de pruebas y producción.
-* Reintentos técnicos.
-* Consulta de comprobantes.
-* Respuestas normalizadas.
+* Emisión de notas de crédito y notas de débito.
+* CAE, vencimiento y QR fiscal.
+* PDF fiscal en formato A4 y Ticket.
+* Ambientes de prueba y producción.
+* Idempotencia mediante referencia externa.
+* Reintentos técnicos controlados.
+* Consulta de comprobantes emitidos.
+* Control por token, CUIT emisor, punto de venta y entorno.
+* Trazabilidad operativa de solicitudes, respuestas, estados y errores.
 
 ### Documentación
 
@@ -32,25 +33,26 @@ https://api.sistemas360.ar/documentacion-api
 
 https://api.sistemas360.ar
 
-## Desarrollo de software a medida
+## Desarrollo de plataformas e integraciones
 
-También desarrollamos sistemas web personalizados para empresas que necesitan digitalizar procesos internos, centralizar información o integrar herramientas externas.
+Además de la API fiscal, desarrollamos soluciones web a medida para empresas que necesitan centralizar información, automatizar procesos internos o conectar sistemas existentes.
 
-Áreas habituales:
+Áreas de trabajo:
 
-* Gestión operativa.
-* Producción.
-* Logística.
-* Personal y permisos.
-* CRM.
-* Reportes gerenciales.
+* Plataformas SaaS.
+* APIs REST.
+* Integraciones backend.
 * Paneles administrativos.
-* APIs e integraciones externas.
-* Mapas y seguimiento GPS.
+* Automatización de procesos.
+* Gestión operativa.
+* Reportes y métricas.
+* Control de usuarios, roles y permisos.
+* Integraciones con servicios externos.
+* Sistemas internos para operación, logística, producción y administración.
 
-## Experiencia técnica
+## Enfoque técnico
 
-Trabajamos en soluciones para gestión comercial, facturación electrónica, stock, ventas, pedidos, cuentas corrientes, usuarios, roles, reportes e integraciones comerciales.
+Trabajamos con soluciones orientadas a operación real, control de datos, trazabilidad, integración entre sistemas y reducción de tareas manuales.
 
 ## Sitio principal
 
