@@ -3,7 +3,18 @@
 ![API REST](https://img.shields.io/badge/API-REST-blue)
 ![SaaS](https://img.shields.io/badge/Platform-SaaS-darkgreen)
 ![ARCA](https://img.shields.io/badge/Facturaci%C3%B3n%20Electr%C3%B3nica-ARCA-orange)
-![Argentina](https://img.shields.io/badge/Argentina-Tecnolog%C3%ADa%20Fiscal-lightgrey)
+![Argentina](https://img.shields.io/badge/Argentina-Integraci%C3%B3n%20Fiscal-skyblue)
+
+![API REST](https://img.shields.io/badge/API-REST-blue)
+![SaaS](https://img.shields.io/badge/Platform-SaaS-darkgreen)
+![ARCA](https://img.shields.io/badge/Facturaci%C3%B3n%20Electr%C3%B3nica-ARCA-orange)
+![Argentina](https://img.shields.io/badge/Argentina-API%20Fiscal-skyblue)
+
+![API REST](https://img.shields.io/badge/API-REST-blue)
+![SaaS](https://img.shields.io/badge/Platform-SaaS-darkgreen)
+![ARCA](https://img.shields.io/badge/Facturaci%C3%B3n%20Electr%C3%B3nica-ARCA-orange)
+![Argentina](https://img.shields.io/badge/Argentina-API%20Fiscal-skyblue)
+
 
 Soluciones tecnológicas para integración fiscal, automatización operativa y desarrollo de plataformas web en Argentina.
 
