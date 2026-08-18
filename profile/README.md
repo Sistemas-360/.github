@@ -31,16 +31,20 @@ Permite integrar emisión fiscal en ERPs, CRMs, POS, ecommerce, plataformas SaaS
 | Control operativo | Idempotencia mediante referencia externa                   |
 | Continuidad       | Reintentos técnicos controlados                            |
 | Consulta          | Búsqueda y consulta de comprobantes emitidos               |
-| Configuración     | Control por token, CUIT emisor, punto de venta y entorno   |
+| Multiemisor       | Uno o múltiples CUIT desde una misma integración            |
+| Configuración     | Tokens, emisores, puntos de venta y entornos                 |
+| Padrón ARCA       | Consulta y normalización de datos fiscales por CUIT          |
 | Auditoría         | Trazabilidad de solicitudes, respuestas, estados y errores |
 
-### Documentación
+### Integración y documentación
 
-[Ver documentación técnica](https://api.sistemas360.ar/documentacion-api)
-
-### Sitio oficial
-
-[api.sistemas360.ar](https://api.sistemas360.ar)
+- [Sitio y panel](https://api.sistemas360.ar)
+- [Documentación técnica](https://api.sistemas360.ar/documentacion-api)
+- [Explorador Swagger / OpenAPI](https://api.sistemas360.ar/docs)
+- [Descargar OpenAPI 3.0](https://api.sistemas360.ar/docs/openapi/download)
+- [Descargar colección de Postman](https://api.sistemas360.ar/docs/postman/download)
+- [Ejemplos oficiales por lenguaje](https://github.com/Sistemas-360/facturacion-electronica-arca-examples)
+- [Estado del servicio](https://status.api.sistemas360.ar)
 
 ---
 
@@ -74,9 +78,9 @@ Construimos soluciones orientadas a operación real, reducción de tareas manual
 
 ## Sitios
 
-[Sitio principal](https://www.sistemas360.ar)
-[API Sistemas 360](https://api.sistemas360.ar)
-[Documentación API](https://api.sistemas360.ar/documentacion-api)
+- [Sitio principal](https://www.sistemas360.ar)
+- [API Sistemas 360](https://api.sistemas360.ar)
+- [Documentación API](https://api.sistemas360.ar/documentacion-api)
 
 ---
 
